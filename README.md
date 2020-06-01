@@ -1,2 +1,0 @@
-# manuelHNGRepo
-HNG Internship Repo
